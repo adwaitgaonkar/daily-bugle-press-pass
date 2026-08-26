@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://adwaitgaonkar.github.io/daily-bugle-press-pass/sitemap.xml
